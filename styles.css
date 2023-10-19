@@ -1,0 +1,213 @@
+/* Marclin R. Abarracoso BSIT3-B3 */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: -15px 0 0 400px;
+    position: absolute;
+}
+
+#head-text, #cert {
+    text-align: center;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+#cert {
+    letter-spacing: 8px;
+    font-size: 25px;
+    font-family: "Arial Black", sans-serif;
+}
+
+main{
+    margin: 0 20px 0 20px;
+}
+
+#regis, #regno {
+    margin: 0 0 5px 20px ;
+}
+
+#regno {
+    color: red;
+}
+
+#table-1 {
+    border: solid 1px;
+    width: 100%;
+    font-family: "Arial", sans-serif;
+    border-spacing: 0;
+}
+
+#th-1 {
+    font-size: 20px;
+    text-align: center;
+    background-color: #b4cfec;
+    border-bottom: solid 1px;
+}
+
+#coll {
+    column-width: 400px;
+}
+
+#blank-1 {
+    border-bottom: solid 1px;
+    border-top: solid 1px;
+    border-color: black;
+    font-size: 6px;
+}
+
+#code, #subj, #u, #ni, #t, #sec, #sched, #fac {
+    background-color: #b4cfec;
+    border-top: solid 1px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#code {
+    column-width: 65px;
+}
+
+#subj {
+    column-width: 350px;
+}
+
+#u {
+    width: 25px;
+}
+
+#ni {
+    width: 35px;
+}
+
+#t {
+    width: 25px;
+}
+
+#sec {
+    width: 100px;
+}
+
+#sched {
+    column-width: 300px;
+}
+
+#fac {
+    column-width: 200px;
+}
+
+#unit {
+    text-align: right;
+    font-weight: bold;
+}
+
+#unit1, #unit2, #unit3 {
+    font-weight: bold;
+    border-top: solid 2px;
+    text-align: center;
+}
+
+#note {
+    font-size: 15px;
+}
+
+#fees, #paysched {
+    text-align: center;
+    letter-spacing: 8px;
+    background-color: #b4cfec;
+    border: solid 2px;
+    font-weight: bolder;
+}
+
+#rules {
+    text-align: center;
+    font-family: "Courier New", serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#blank-2 {
+    border: solid 1px;
+    font-size: 2px;
+}
+
+#fee1, #fee2, #fee3, #fee4, #fee5, #fee6, #fee7, #fee8, #fee9, #fee10, #fee11, #fee12, #fee13, #fee14, #fee15, #fee16, #total, #total2, #total4, #pymnt, #info {
+    border-left: solid 1px;
+    font-size: 15px;
+}
+
+#fee1\.0, #fee2\.0, #fee3\.0, #fee4\.0, #fee5\.0, #fee6\.0, #fee7\.0, #fee8\.0, #fee9\.0, #fee10\.0, #fee11\.0, #fee12\.0, #fee13\.0, #fee14\.0, #fee15\.0, #fee16\.0, #total1, #total3, #total5, #pymnt, #info {
+    border-right: solid 1px;
+    font-size: 15px;
+    text-align: right;
+}
+
+#fee16, #fee16\.0, #total, #total1, #total2, #total3, #info {
+    border-bottom: solid 1px;
+}
+
+#rule1, #rule2, #rule3, #rule4 {
+    text-align: justify;
+    font-family: "Courier New", serif;
+    font-size: 16px;
+}
+
+#receipt, #date {
+    text-align: center;
+    font-weight: bolder;
+}
+
+#space, #space1 {
+    border-bottom: solid 1px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#total, #total1, #total2, #total3, #total4, #total5 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#pymnt, #info {
+    font-size: 15px;
+    text-align: center;
+}
+
+#appr {
+    font-weight: bolder;
+}
+
+.space2 {
+    font-size: 40px;
+}
+
+.space3 {
+    font-size: 150px;
+}
+
+#signature img {
+    width: 400px;
+}
+
+#printed {
+    text-align: right;
+    font-size: 15px;
+}
+
+#th-2 {
+    font-size: 18px;
+    text-align: center;
+    background-color: #b4cfec;
+    border-top: solid 1px;
+}
+
+h4 {
+    font-weight: normal;
+}
